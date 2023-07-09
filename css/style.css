@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+}
+.head{
+    background-image: url('../images/banner/banner1.png');
+    height:80vh;
+    display: flex;
+    justify-content:end;
+    align-items: center;
+    padding-right: 100px;
+    text-align: right;
+}
+.head-text{
+    width:80vh;
+}
+.head-text>h1{
+    font-size: 50px;
+    font-weight: bold;
+    padding-bottom: 50px;
+    
+}
+.head-text>p{
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+.head-button{
+    padding:20px 25px;
+    color: #FFF;
+
+
+font-size: 20px;
+
+font-weight: 600;
+border-radius: 5px;
+background-color: #F15B22;
+}
